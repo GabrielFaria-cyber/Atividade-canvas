@@ -9,6 +9,11 @@ CTX.fillStyle='purple';
 CTX.fill();
 
 CTX.beginPath();
-CTX.moveTo(75, 50);
-CTX.line.To(100, 75);
-CTX.fill();
+    CTX.arc(75, 300, 50, 0, Math.PI * 2, true); // Círculo exterior
+    CTX.moveTo(110, 300);
+    CTX.arc(75, 300, 35, 0, Math.PI, false);  // Boca (sentido horário)
+    CTX.moveTo(65, 300);
+    CTX.arc(60, 300, 5, 0, Math.PI * 2, true);  // Olho esquerdo
+    CTX.moveTo(95, 300);
+    CTX.arc(90, 300, 5, 0, Math.PI * 2, true);  // Olho direito
+    CTX.stroke();
