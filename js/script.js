@@ -10,4 +10,4 @@ CTX.fill();
 
 CTX.beginPath();
 CTX.fillRect(20, 20);
-CTX.fillStyle='blue',
+CTX.fillStyle='blue';
