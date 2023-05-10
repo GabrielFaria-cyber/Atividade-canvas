@@ -9,5 +9,6 @@ CTX.fillStyle='purple';
 CTX.fill();
 
 CTX.beginPath();
-CTX.fillRect(20, 20);
-CTX.fillStyle='blue';
+CTX.moveTo(75, 50);
+CTX.line.To(100, 75);
+CTX.fill();
