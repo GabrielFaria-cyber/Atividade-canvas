@@ -22,3 +22,14 @@ CTX.moveTo(95, 290);
 CTX.arc(90, 290, 5, 0, Math.PI * 2, true);  // Olho direito
 CTX.stroke();
 
+//Linha
+CTX.beginPath();
+CTX.moveTo(15, 15);
+CTX.lineTo(10, 10);
+CTX.lineTo(125, 105);
+CTX.fill();
+
+CTX.beginPath();
+CTX.lineWidth=50;
+
+
