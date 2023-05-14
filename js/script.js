@@ -30,6 +30,8 @@ CTX.lineTo(125, 105);
 CTX.fill();
 
 CTX.beginPath();
-CTX.lineWidth=50;
+CTX.arc(250, 400, 50, 0, Math.PI);
+CTX.stroke();
+
 
 
