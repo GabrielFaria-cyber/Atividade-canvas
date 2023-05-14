@@ -29,6 +29,7 @@ CTX.lineTo(10, 10);
 CTX.lineTo(125, 105);
 CTX.fill();
 
+//Arco
 CTX.beginPath();
 CTX.arc(250, 400, 50, 0, Math.PI);
 CTX.stroke();
