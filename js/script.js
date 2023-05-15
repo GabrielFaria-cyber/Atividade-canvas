@@ -24,15 +24,21 @@ CTX.stroke();
 
 //Linha
 CTX.beginPath();
-CTX.moveTo(15, 15);
-CTX.lineTo(10, 10);
-CTX.lineTo(125, 105);
-CTX.fill();
+CTX.moveTo(50, 200);
+CTX.lineTo(200, 200);
+CTX.stroke();
 
 //Arco
 CTX.beginPath();
 CTX.arc(250, 400, 50, 0, Math.PI);
 CTX.stroke();
 
+//IMG
+let img=new Image()
+img.src= 'img/Cachorro.jpg'
+img.addEventListener('load', ()=>
+{
+    CTX.drawImage(img, 600, 100)
+})
 
 
