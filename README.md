@@ -12,6 +12,8 @@ Foi adicionada uma borda de 4px.
 
 ° A variável "canvas" está sendo utilizada para criar um retângulo verde.
     -> para criação usamos: FillRect para definir o tamanho e o FillStyle para colorir.
+
+    <img src="img/retangulo.png">
     
 ° Criamos um circulo usando:
     -> beginPath para criar o objeto; O arc para definir a posição e tamanho; FillStyle para colorir e Fill para preencher.
