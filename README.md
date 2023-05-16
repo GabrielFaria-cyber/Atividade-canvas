@@ -27,3 +27,4 @@ Foi adicionada uma borda de 4px.
 
 ° colocando a imagem: 
     -> "let img=new image" é uma variável para chamar uma imagem; scr para encontrar a imagem dentro da pasta selecionada; Listener carrega a imagem na página e o drawImage um método para renderizá-lo na tela.
+    
