@@ -19,7 +19,7 @@ Foi adicionada uma borda de 4px.
 º Para fazer uma linha:
     -> beginPath para criar o objeto; MoveTo foi para especificar o ponto na tela ;Com o lineTo definimos a o ponto inicial e        final, com o stroke desenhamos o caminho na tela.
     
-° *Arco:
+° *Arco*:
     -> usa-se o arc para criar metade do círculo, entre os parênteses tem as coordenadas de x, y, raio, angulo e Math.PI; com        o stroke desenhamos o arco na tela.
     
 ° colocando a imagem:
