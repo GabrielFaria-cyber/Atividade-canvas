@@ -13,7 +13,6 @@ Foi adicionada uma borda de 4px.
 ° A variável "canvas" está sendo utilizada para criar um retângulo verde.
     -> para criação usamos: FillRect para definir o tamanho e o FillStyle para colorir.
     
-    
 ° Criamos um circulo usando:
     -> beginPath para criar o objeto; O arc para definir a posição e tamanho; FillStyle para colorir e Fill para preencher.
     
@@ -28,5 +27,7 @@ Foi adicionada uma borda de 4px.
 
 ° colocando a imagem: 
     -> "let img=new image" é uma variável para chamar uma imagem; scr para encontrar a imagem dentro da pasta selecionada; Listener carrega a imagem na página e o drawImage um método para renderizá-lo na tela.
-    <img src="img/image.png"/>
+    
+   
+   <img src="img/image.png"/>
     
