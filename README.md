@@ -32,5 +32,6 @@ Foi adicionada uma borda de 4px.
    <img src="img/image.png"/>
     
 ![ft breakout guia](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/e4e2a5f5-7536-459e-8850-cd9915a90e49)
-![breakout](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/42e55885-4e4f-4290-996f-5c073443fc4a)
+![breakout](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/93503e68-1476-442c-92ce-346abe2cf728)
+
 
