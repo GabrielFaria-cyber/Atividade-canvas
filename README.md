@@ -33,5 +33,7 @@ Foi adicionada uma borda de 4px.
     
 ![ft breakout guia](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/e4e2a5f5-7536-459e-8850-cd9915a90e49)
 ![breakout](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/93503e68-1476-442c-92ce-346abe2cf728)
+![breakout-antigo](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/a4b9ce84-6ea8-4cec-bf1a-655b2e1411aa)
+
 
 
