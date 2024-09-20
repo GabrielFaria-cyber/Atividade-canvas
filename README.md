@@ -23,6 +23,7 @@ Foi adicionada uma borda de 4px.
     -> beginPath para criar o objeto; MoveTo foi para especificar o ponto na tela ;Com o lineTo definimos a o ponto inicial e final, com o stroke desenhamos o caminho na tela.
 
 ° Arco:
+
     -> usa-se o arc para criar metade do círculo, entre os parênteses tem as coordenadas de x, y, raio, angulo e Math.PI; com o stroke desenhamos o arco na tela.
 
 ° colocando a imagem: 
@@ -35,5 +36,5 @@ Foi adicionada uma borda de 4px.
 ![breakout](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/93503e68-1476-442c-92ce-346abe2cf728)
 ![breakout-antigo](https://github.com/GabrielFaria-cyber/Atividade-canvas/assets/127872183/a4b9ce84-6ea8-4cec-bf1a-655b2e1411aa)
 
-
+![3bfe5b85-f1b3-448d-8f05-7afd7d906e04](https://github.com/user-attachments/assets/76601497-79ca-470a-b24f-7ce9930c7e47)
 
